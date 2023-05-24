@@ -1,11 +1,8 @@
 # React + Vite + Capacitor Boilerplate
 
 <p align="center">
-  
-<img height="400" alt="image" src="https://github.com/rhea-so-lab/react-vite-capacitor-boilerplate/assets/25793226/1385c2a2-1cce-4b84-94ed-d3ea01aa1c3a">
-<img height="400" alt="image" src="https://github.com/rhea-so-lab/react-vite-capacitor-boilerplate/assets/25793226/5424ee36-9fdd-4d9b-b1fd-a8b0231f0865">
-<img height="400" alt="image" src="https://github.com/rhea-so-lab/react-vite-capacitor-boilerplate/assets/25793226/86a36726-2a8f-4c4e-8fe3-b496c337c2fb">
-
+  <img height="400" alt="image" src="https://github.com/rhea-so-lab/react-vite-capacitor-boilerplate/assets/25793226/776cbdce-8ea5-4ec0-b565-d1d4efd68b47">
+  <img height="400" alt="image" src="https://github.com/rhea-so-lab/react-vite-capacitor-boilerplate/assets/25793226/d83721e7-7941-48bf-b68a-597c9c608305">
 </p>
   
 ## Dependencies
