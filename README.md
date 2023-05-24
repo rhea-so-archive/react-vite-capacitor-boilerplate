@@ -39,6 +39,7 @@ Run iOS: (Install [XCode](https://developer.apple.com/kr/xcode/) First)
 
 ```sh
 xcode-select --install
+# Update Software in MacOS System Settings
 brew install cocoapods
 npm run ios:init
 npm run ios
