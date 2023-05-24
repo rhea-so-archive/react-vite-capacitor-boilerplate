@@ -46,10 +46,10 @@ npm run ios
 
 > Reference: https://capacitorjs.com/docs/ios#adding-the-ios-platform
 
-Run Android: (Install [Android Studio](https://developer.android.com/studio) And Download SDK First)
+Run Android: (Install [Android Studio](https://developer.android.com/studio) And Download SDK in SDK Manager And [Creating a Virtual Device](https://developer.android.com/studio/run/managing-avds))
 
 ```sh
-brew install openjdk
+brew install openjdk@17 && echo 'export PATH="/opt/homebrew/opt/openjdk@17/bin:$PATH"' >> ~/.zshrc
 brew install gradle
 npm run android:init
 # Wait Some Minutes.. For Android Studio Build ...
