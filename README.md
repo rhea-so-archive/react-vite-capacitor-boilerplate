@@ -1,4 +1,4 @@
-# React + Vite + Capacitor Boilerplate
+# 🧩 React + Vite + Capacitor Boilerplate
 
 |Web|Android|iOS|
 |------|---|---|
