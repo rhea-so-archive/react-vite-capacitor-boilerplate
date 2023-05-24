@@ -4,6 +4,8 @@
     "dev": "vite",
     "preview": "vite preview",
     "build": "rimraf build && vite build",
+    "preios:init": "npm run build",
+    "preandroid:init": "npm run build",
     "ios:init": "cap add ios && cap copy ios && cap open ios",
     "android:init": "cap add android && cap copy android && cap open android",
     "preios": "npm run build",
