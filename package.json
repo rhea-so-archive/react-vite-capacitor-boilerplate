@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "4.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "5.3.10",
+    "styled-reset": "4.4.7",
+    "vite": "4.3.8",
+    "vite-tsconfig-paths": "4.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
+    "@types/styled-components": "5.1.26"
+  }
+}
