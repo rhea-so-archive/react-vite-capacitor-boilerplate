@@ -1,12 +1,11 @@
-# React + Vite Boilerplate
-
-<img width="500" alt="image" src="https://github.com/rhea-so-lab/react-vite-boilerplate/assets/25793226/29b670c7-a83a-4a21-9f5b-f6c203a42735">
+# React + Vite + Capacitor Boilerplate
 
 ## Dependencies
 
 - [React](https://github.com/facebook/react)
 - [Vite](https://github.com/vitejs/vite)
 - [Vite TSConfig Paths](https://github.com/aleclarson/vite-tsconfig-paths)
+- [Capacitor](https://github.com/ionic-team/capacitor)
 - [Styled Components](https://github.com/styled-components/styled-components)
 - [Styled Reset](https://github.com/zacanger/styled-reset)
 - [Typescript](https://github.com/microsoft/TypeScript)
@@ -16,7 +15,7 @@
 Clone this repository:
 
 ```sh
-git clone git@github.com:rhea-so-lab/react-vite-boilerplate.git my-project
+git clone git@github.com:rhea-so-lab/react-vite-capacitor-boilerplate.git my-project
 cd my-project
 ```
 
@@ -26,11 +25,31 @@ Install dependencies:
 npm install
 ```
 
-Run:
+Run Web:
 
 ```sh
 npm run dev
 ```
+
+Run iOS: (Install [XCode](https://developer.apple.com/kr/xcode/) First)
+
+```sh
+xcode-select --install
+brew install cocoapods
+npm run ios:init
+npm run ios
+```
+
+> Reference: https://capacitorjs.com/docs/ios#adding-the-ios-platform
+
+Run Android: (Install [Android Studio](https://developer.android.com/studio) And Download SDK First)
+
+```sh
+npm run android:init
+npm run android
+```
+
+> Reference: https://capacitorjs.com/docs/android#adding-the-android-platform
 
 ## License
 
