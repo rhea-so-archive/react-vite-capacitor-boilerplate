@@ -5,7 +5,7 @@
     "preview": "vite preview",
     "build": "rimraf build && vite build",
     "ios:init": "cap add ios",
-    "android:init": "cap add ios",
+    "android:init": "cap add android && cap copy android && cap open android",
     "preios": "npm run build",
     "preandroid": "npm run build",
     "ios": "cap run ios",

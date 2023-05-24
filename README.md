@@ -10,6 +10,10 @@
 - [Styled Reset](https://github.com/zacanger/styled-reset)
 - [Typescript](https://github.com/microsoft/TypeScript)
 
+## Preparation
+
+- [Homebrew](https://brew.sh/)
+
 ## Getting Started
 
 Clone this repository:
@@ -45,7 +49,10 @@ npm run ios
 Run Android: (Install [Android Studio](https://developer.android.com/studio) And Download SDK First)
 
 ```sh
+brew install openjdk
+brew install gradle
 npm run android:init
+# Wait Some Minutes.. For Android Studio Build ...
 npm run android
 ```
 
