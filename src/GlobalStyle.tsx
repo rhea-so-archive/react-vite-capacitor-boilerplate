@@ -19,5 +19,14 @@ const GlobalStyle = createGlobalStyle`
 		align-items: center;
 		justify-content: center;
 	}
+
+	// Reference: https://developer.apple.com/videos/play/tech-talks/801/
+	body {
+		padding:
+			env(safe-area-inset-top)
+			env(safe-area-inset-right)
+			env(safe-area-inset-bottom)
+			env(safe-area-inset-left);
+	}
 `;
 export default GlobalStyle;
