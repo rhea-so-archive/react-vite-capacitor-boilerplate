@@ -21,7 +21,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "styled-components": "6.0.2",
-    "styled-reset": "4.4.7",
+    "styled-reset": "4.5.1",
     "vite": "4.3.9",
     "vite-tsconfig-paths": "4.2.0"
   },
