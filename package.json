@@ -14,7 +14,7 @@
     "android": "cap run android"
   },
   "dependencies": {
-    "@capacitor/android": "5.2.2",
+    "@capacitor/android": "5.2.3",
     "@capacitor/core": "5.2.2",
     "@capacitor/ios": "5.2.2",
     "@vitejs/plugin-react": "4.0.4",
