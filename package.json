@@ -23,7 +23,7 @@
     "styled-components": "6.0.7",
     "styled-reset": "4.5.1",
     "vite": "4.4.9",
-    "vite-tsconfig-paths": "4.2.0"
+    "vite-tsconfig-paths": "4.2.1"
   },
   "devDependencies": {
     "@capacitor/cli": "5.3.0",
