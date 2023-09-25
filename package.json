@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@capacitor/android": "5.4.1",
-    "@capacitor/core": "5.4.0",
+    "@capacitor/core": "5.4.1",
     "@capacitor/ios": "5.4.1",
     "@vitejs/plugin-react": "4.0.4",
     "react": "18.2.0",
